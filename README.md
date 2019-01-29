@@ -1,5 +1,10 @@
-# [asyncLaboratory](./ABOUTTEMPLATE.md)
-This is a template README. See [ABOUT TEMPLATE JS](./ABOUTTEMPLATE.md) for details.
+# Asynch Laboratory
+This project was created as a place to study promises and other asynchronous behaviour in JavaScript. It is pretty bare bones and really is just for my own experiments in learning.
+
+The project was seeded using [TEMPLATE JS](./ABOUTTEMPLATE.md).
+
+### Author
+Scott Bergler
 
 ## Table of contents
 **[Description](#description)**<br>
@@ -10,13 +15,6 @@ This is a template README. See [ABOUT TEMPLATE JS](./ABOUTTEMPLATE.md) for detai
 **[Support](#support-and-contact-details)**<br>
 **[Technologies Used](#technologies-used)**<br>
 **[License](#license)**<br>
-
-### Author
-
-## Description
-
-## Setup and Installation
-See [ABOUT TEMPLATE JS](./ABOUTTEMPLATE.md).
 
 ## Resources
 [ABOUT TEMPLATE JS](./ABOUTTEMPLATE.md): This project was instantiated using a template created by Scott Bergler. ABOUTTEMPLATE is a run-down on what this template includes, why it's included, and how to use it.
